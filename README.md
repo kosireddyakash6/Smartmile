@@ -1,6 +1,8 @@
 **#Smart Last-Mile Delivery Optimization (Zepto Delivery Analytics)**
 
 This project presents an end-to-end real-world analytics solution for optimizing last-mile delivery performance for Zepto-like hyperlocal delivery operations. The goal is to identify delivery inefficiencies, optimize driver performance, reduce delays, and improve customer satisfaction by leveraging MySQL for data storage and Power BI for interactive dashboards.
+
+
 **Project Objective**
 
 Last-mile delivery is the most expensive and time-sensitive part of the logistics chain. This project simulates a real corporate analytics workflow:
